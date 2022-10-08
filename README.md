@@ -1,6 +1,6 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm a second-year undergraduate student at Sacramento State, and I am pursuing a B.S. in Computer Science. I am currently a Student Assistant Web Developer and want to work as a Full-Stack Developer. I am a fast learner and eager to learn new technologies
+I am a second-year undergraduate student at Sacramento State, and I am pursuing a B.S. in Computer Science. I am currently a Student Assistant Web Developer and want to work as a Full-Stack Developer. I am a fast learner and eager to learn new technologies.
 
 <div>
   <h2>Experience</h2>
