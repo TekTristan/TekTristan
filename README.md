@@ -20,5 +20,20 @@ I'm a second-year undergraduate student at Sacramento State, and I am pursuing a
 - 👯 I’m looking to collaborate with others, and is open for internship opportunities.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tristan-dinh-1220a9215/) , [Email](mailto:tristandinh@csus.edu)
 
+<div>
+  <h2>Contact</h2>
+  <div>
+    <a href="https://discord.com/users/222205454334296068">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/TekTristan">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://github.com/TekTristan" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div
+</div>
+
 
 <!--END_SECTION:activity-->
