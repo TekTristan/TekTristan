@@ -30,7 +30,7 @@ I am a second-year undergraduate student at Sacramento State, and I am pursuing 
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/tristan-dinh-1220a9215/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div
 </div>
