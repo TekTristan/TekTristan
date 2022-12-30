@@ -19,7 +19,7 @@ I am a second-year undergraduate student at Sacramento State, and I am pursuing 
 - 🔭 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate with others, and I am open for internship opportunities.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tristan-dinh-1220a9215/) , [Email](mailto:tristandinh@csus.edu)
--   - ![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap)
+
 
 
 
@@ -38,5 +38,6 @@ I am a second-year undergraduate student at Sacramento State, and I am pursuing 
   </div
 </div>
 
+ ![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap)
 
 <!--END_SECTION:activity-->
