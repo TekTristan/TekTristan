@@ -12,6 +12,7 @@ I am a second-year undergraduate student at Sacramento State, and I am pursuing 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 </div>
+
 ![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap)
 
 
