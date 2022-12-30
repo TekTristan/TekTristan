@@ -13,7 +13,7 @@ I am a second-year undergraduate student at Sacramento State, and I am pursuing 
   </div>
 </div>
 
-![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap)
+![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap?theme=nord)
 
 
 
