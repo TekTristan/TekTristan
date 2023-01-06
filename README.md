@@ -19,7 +19,7 @@ Hi there! My name is Tristan Dinh and I am a passionate computer science student
 
 
 ### Summary👋
-- 🔭 I’m currently learning ReactJS.
+- 🔭 I’m currently learning ReactJS, NodeJS.
 - 👯 I’m looking to collaborate with others, and I am open for internship opportunities.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tristan-dinh-1220a9215/) , [Email](mailto:tristandinh@csus.edu)
 
