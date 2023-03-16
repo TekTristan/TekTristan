@@ -17,7 +17,6 @@ Hi there! My name is Tristan Dinh and I am a passionate computer science student
   </div>
 </div>
 
-![](https://leetcard.jacoblin.cool/TekTristan?ext=heatmap)
 
 
 
