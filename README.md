@@ -1,6 +1,6 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Hi there! My name is Tristan Dinh and I am a passionate computer science student at Sacramento State, where I am currently working towards my B.S. degree. I have previously worked as a Student Assistant Web Developer, and am eager to continue my professional growth as a Full-Stack Developer. With a strong foundation in computer science principles and a desire to constantly learn and stay up-to-date with new technologies, I believe I have the skills and drive to make a positive impact in any development team.
+Hi there! My name is Tristan Dinh and I am a passionate computer science student at Sacramento State, where I am currently working towards my B.S. degree. I have previously worked as a Web Developer Intern, and am eager to continue my professional growth as a Full-Stack Engineer. With a strong foundation in computer science principles and a desire to constantly learn and stay up-to-date with new technologies, I believe I have the skills and drive to make a positive impact in any development team.
 
 <div>
   <h2>Contact</h2>
