@@ -33,7 +33,7 @@ Hi there! My name is Tristan Dinh and I am a passionate computer science student
 
 
 ### Summary👋
-- 🔭 I’m currently learning TypeScript, Ruby, and Ruby on Rails.
+- 🔭 I’m currently learning Ruby, and Ruby on Rails.
 - 💻 My current project is a dunking fitness app that includes a forum for users to connect and share their experiences as they work towards their dunking goals.
 - 👯 I’m looking to collaborate with others, and I am open for internship opportunities.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tristan-dinh-1220a9215/) , [Email](mailto:tristandinh@csus.edu)
